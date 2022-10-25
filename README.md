@@ -1,0 +1,2 @@
+# nibberbot
+anti racism bot
