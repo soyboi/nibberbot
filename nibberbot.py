@@ -12,3 +12,4 @@ class Nibberbot(discord.Client):
     async def setup_hook(self):
 
         await self.tree.fetch_commands()
+        await self.tree.sync()
