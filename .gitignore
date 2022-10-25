@@ -1,8 +1,6 @@
 #config file
 config.ini
 
-.idea
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -121,6 +119,9 @@ venv.bak/
 
 # Rope project settings
 .ropeproject
+
+# Intellij project settings
+.idea
 
 # mkdocs documentation
 /site
