@@ -1,5 +1,2 @@
 [AUTH]
 token = PutTokenHere
-
-['VARS']
-guildid = PutGuildIdHere

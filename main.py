@@ -2,7 +2,7 @@ import discord
 from nibberbot import Nibberbot
 import configparser
 
-intents = discord.Intents.default()
+intents = discord.Intents.all()
 client = Nibberbot(intents=intents)
 config = configparser.ConfigParser()
 config.read('config.ini')
